@@ -79,11 +79,11 @@ Opened by drilling through from an employee.
 
 | Home | Departments |
 |---|---|
-| ![Home](Home.png) | ![Departments](images/departments.png) |
+| ![Home](Home.png) | ![Departments](Departments.png) |
 
 | Employees | Data Model |
 |---|---|
-| ![Employees](images/employees.png) | ![Data Model](images/data-model.png) |
+| ![Employees](Employees.png) | ![Data Model](images/Data Model.png) |
 
 ---
 
