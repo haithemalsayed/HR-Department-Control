@@ -79,7 +79,7 @@ Opened by drilling through from an employee.
 
 | Home | Departments |
 |---|---|
-| ![Home](images/home.png) | ![Departments](images/departments.png) |
+| ![Home](Home.png) | ![Departments](images/departments.png) |
 
 | Employees | Data Model |
 |---|---|
