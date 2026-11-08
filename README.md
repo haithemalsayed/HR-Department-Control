@@ -7,7 +7,7 @@ An interactive **Power BI** dashboard that analyzes employee performance (2019â€
 ---
 
 ## Table of Contents
-- [Overview](#overview)
+- [Overview](#overview)  
 - [Key Features](#key-features)
 - [Dashboard Pages](#dashboard-pages)
 - [Screenshots](#screenshots)
@@ -83,7 +83,7 @@ Opened by drilling through from an employee.
 
 | Employees | Data Model |
 |---|---|
-| ![Employees](Employees.png) | Data Model.png |
+| ![Employees](Employees.png) | ![DataModel](DataModel.png) |
 
 ---
 
