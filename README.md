@@ -83,7 +83,8 @@ Opened by drilling through from an employee.
 
 | Employees | Data Model |
 |---|---|
-| ![Employees](Employees.png) | ![Data Model](Data Model.png) |
+| ![Employees](Employees.png) | ![Data Model](Data Model.png
+) |
 
 ---
 
